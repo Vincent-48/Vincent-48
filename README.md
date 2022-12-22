@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincent-48
 - 👀 I’m interested in back end application development 
-- 🌱 I’m currently learning c++ and various frameworks 
+- 🌱 I’m currently learning c++ and various frameworks.
 - 💞️ I’m looking to collaborate on hackathons and problem solving challenges.
 - 📫 How to reach me (my LinkedIn) link in bio.
 
