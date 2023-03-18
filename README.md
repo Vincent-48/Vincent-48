@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vincent Ochieng.
 - 👀 I’m interested in backend application development.
-- 🌱 I’m currently learning c++ and various python frameworks.
+- 🌱 I’m currently learning c++ and various python frameworks.   
 - 💞️ I’m looking to collaborate on hackathons and problem solving challenges.
 - 📫 How to reach me (my LinkedIn) link in bio...
 
